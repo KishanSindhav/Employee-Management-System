@@ -1,8 +1,8 @@
-# 🏢 Enterprise Employee & Project Management System
+# 🏢 Employee Management System
 
 ## 📌 Project Overview
 
-The **Enterprise Employee & Project Management System** is a web-based application developed to manage employees, managers, projects, notifications, and internal communication within an organization.
+The **Employee Management System** is a web-based application developed to manage employees, managers, projects, notifications, and internal communication within an organization.
 
 This system is designed with **Role-Based Access Control (RBAC)** and includes three main roles:
 
