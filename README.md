@@ -1,4 +1,24 @@
 # 🏢 Employee Management System
+---
+
+## 📁 Important Folder Setup
+
+If you are using or cloning this project, make sure to create the following two empty folders inside your main project directory:
+project-folder-name/
+│
+├── profilePhoto/
+├── leave_doc/
+
+### 📌 Why These Folders Are Required?
+
+- **profilePhoto/** → Used to store uploaded user profile pictures.
+- **leave_doc/** → Used to store uploaded leave application documents.
+
+⚠️ These folders must be created manually after cloning the repository, otherwise file upload functionality will not work properly.
+
+Make sure both folders have proper write permissions.
+
+
 
 ## 📌 Project Overview
 
