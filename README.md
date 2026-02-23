@@ -4,10 +4,8 @@
 ## 📁 Important Folder Setup
 
 If you are using or cloning this project, make sure to create the following two empty folders inside your main project directory:
-project-folder-name/
-│
-├── profilePhoto/
-├── leave_doc/
+project-folder-name/profilePhoto/
+project-folder-name/leave_doc/
 
 ### 📌 Why These Folders Are Required?
 
